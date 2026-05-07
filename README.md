@@ -1,18 +1,1 @@
-# DS_Practicals
-Task List
-Your written report should include both code, output and written text summaries of the following:
-Data Validation:
-Describe validation and cleaning steps for every column in the data
-Exploratory Analysis:
-Include two different graphics showing single variables only to demonstrate the characteristics of data
-Include at least one graphic showing two or more variables to represent the relationship between features
-Describe your findings
-Model Development
-Include your reasons for selecting the models you use as well as a statement of the problem type
-Code to fit the baseline and comparison models
-Model Evaluation
-Describe the performance of the two models based on an appropriate metric
-Business Metrics
-Define a way to compare your model performance to the business
-Describe how your models perform using this approach
-Final summary including recommendations that the business should undertake
+The primary objective of this project is to transition Tasty Bytes from a manual recipe selection process to a data-driven strategy for its homepage. Given that featuring a popular recipe can increase website traffic by up to 40%, identifying these high-performing options is essential for driving subscription growth. By analyzing historical data, such as nutritional information and meal categories, a predictive model will be developed to identify recipes likely to generate high traffic. The goal is to achieve the product team’s target of 80% prediction accuracy, ensuring the homepage consistently features engaging content while minimizing the display of unpopular recipes.
