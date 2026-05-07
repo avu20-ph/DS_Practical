@@ -1,12 +1,20 @@
-#Task List Your written report should include both code, output and written text summaries of the following: 
-#Data Validation: Describe validation and cleaning steps for every column in the data 
-#Exploratory Analysis: Include two different graphics showing single variables only to demonstrate the characteristics of data 
-#Include at least one graphic showing two or more variables to represent the relationship between features 
-#Describe your findings Model Development Include your reasons for selecting the models you use as well as a statement of the problem type 
-#Code to fit the baseline and comparison models Model Evaluation Describe the performance of the two models based on an appropriate metric 
-#Business Metrics Define a way to compare your model performance to the business Describe how your models perform using this approach 
+#Task List
+#Your written report should include written text summaries and graphics of the following:
+#Data validation:
+#Describe validation and cleaning steps for every column in the data
+#Exploratory Analysis:
+#Include two different graphics showing single variables only to demonstrate the characteristics of data
+#Include at least one graphic showing two or more variables to represent the relationship between features
+#Describe your findings
+#Definition of a metric for the business to monitor
+#How should the business use the metric to monitor the business problem
+#Can you estimate initial value(s) for the metric based on the current data
 #Final summary including recommendations that the business should undertake
 
+#KPI - achieve at least 80% prediction accuracy
+#This is a binary classification problem since the outcome is categorical and only has two possible classes:
+#Can you estimate initial value(s) for the metric based on the current data
+#Final summary including recommendations that the business should undertake
 #KPI - achieve at least 80% prediction accuracy
 #This is a binary classification problem since the outcome is categorical and only has two possible classes: high traffic and not high traffic.
 #Importing packages
